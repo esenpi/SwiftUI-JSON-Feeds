@@ -1,0 +1,6 @@
+framework module Pods_PBMod_PBModUITests {
+  umbrella header "Pods-PBMod-PBModUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
